@@ -2,7 +2,7 @@
 
 This repository contains a Juypter Notebook and the sample data I used to show that **hot temperatures have a statistically significant impact** while humid weather doesn't necessarily.
 
-For a more in depth explanation of the experiments and the methodologies used, check out the medium article I wrote: *link here*
+For a more in depth explanation of the experiments and the methodologies used, check out the medium article I wrote: [click here](https://medium.com/@matthewghannoum/58cc70178dc2).
 
 ## Requirements
 
