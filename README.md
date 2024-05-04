@@ -2,7 +2,9 @@
 
 This repository contains a Juypter Notebook and the sample data I used to show that **hot temperatures have a statistically significant impact** while humid weather doesn't necessarily.
 
-For a more in depth explanation of the experiments and the methodologies used, check out the medium article I wrote: [click here](https://medium.com/@matthewghannoum/using-hypothesis-testing-to-determine-if-temperature-impacts-workout-performance-58cc70178dc2).
+For a more in depth explanation of the experiments and the methodologies used, you can read my Medium article on: [Using Hypothesis Testing to Determine if Temperature Impacts Workout Performance](https://medium.com/@matthewghannoum/using-hypothesis-testing-to-determine-if-temperature-impacts-workout-performance-17aa9caaf396).
+
+Or you can read it on my [Portfolio Blog here](https://matthewgh.com/blog/using-hypothesis-testing-to-determine-if-temperature-impacts-workout-performance/).
 
 ## Requirements
 
